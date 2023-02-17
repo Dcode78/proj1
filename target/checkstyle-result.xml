@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="8.45.1">
-<file name="C:\VCCode\proj1\src\test\java\project\maven\selenium\WebDriverManagerDemo.java">
+<file name="/workspace/proj1/src/test/java/project/maven/selenium/WebDriverManagerDemo.java">
 <error line="1" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
 <error line="5" column="1" severity="error" message="Extra separation in import group before &apos;io.github.bonigarcia.wdm.WebDriverManager&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
 <error line="5" column="1" severity="error" message="Wrong order for &apos;io.github.bonigarcia.wdm.WebDriverManager&apos; import." source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
